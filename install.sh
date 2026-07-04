@@ -11,7 +11,7 @@ BOLD='\033[1m'
 NC='\033[0m'
 
 BIN_DIR="$HOME/.local/bin"
-SCRIPT_URL="https://raw.githubusercontent.com/midasism/ark-usage/refs/heads/master/ark-usage"
+SCRIPT_URL="https://raw.githubusercontent.com/midasism/ark-usage/master/ark-usage"
 
 echo ""
 echo -e "${BOLD}${CYAN}╭──────────────────────────────────────────────╮${NC}"
