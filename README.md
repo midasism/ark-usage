@@ -18,7 +18,7 @@
 ## 一键安装
 
 ```bash
-curl -fsSL https://cdn.jsdelivr.net/gh/midasism/ark-usage@master/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/midasism/ark-usage/master/install.sh | bash
 ```
 
 脚本自动完成：
